@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning info sec
 - 💞️ I’m looking to collaborate on Spycio.Kon_chan
-- 📫 How to reach me https://www.facebook.com/kon.chan.spycio/
+- 📫 How to reach me hackervnn40@gmail.com or...
 
 <!---
 tiyeume25112004/tiyeume25112004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
