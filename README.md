@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tiyeume25112004
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning info sec
+- 👋 Hi, I’m Kon-chan
+- 👀 I’m interested in coding or something like that
+- 🌱 I’m currently learning infosec and
 - 💞️ I’m looking to collaborate on Spycio.Kon_chan
 - 📫 How to reach me hackervnn40@gmail.com or...
 
