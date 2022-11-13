@@ -4,7 +4,7 @@
 - Love anime and security.
 - Coder or maybe a poor man.
 - Im really lazy to fix my profile so Hope you can be satisfied.
-- My Eng so bad.
+- My Eng is so teriable.
 
  ![My-success](https://tryhackme-badges.s3.amazonaws.com/hackervnn40.png)
 
